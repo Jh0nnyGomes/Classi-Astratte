@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    class Uomo : Bipede
+    class Corvo : Uccello
     {
-        public Uomo () : base("Uomo", "Bipede", "Terraferma", 2, " /_ \_ ")
-        {}
+        public Corvo() : base("Corvo", "Luoghi aridi", "Volo")
+        { }
     }
 }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    abstract class Quadrupede : Animale_Terrestre
+    class Cavallo : Quadrupede
     {
-        public Quadrupede(string nome, string habitat, string movimento) : base(nome, "Quadrupede", habitat, 4, movimento)
+        public Cavallo() : base("Cavallo", "Foresta", "Trotto")
         {}
     }
 }

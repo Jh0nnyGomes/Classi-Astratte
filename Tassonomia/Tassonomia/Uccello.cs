@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    abstract class Uccello : Bipede
+    class Uccello : Bipede
     {
-        public Uccello(string nome, string tipo, string habitat, int zampe, string movimento) : base(nome, tipo, habitat, zampe, movimento)
+        public Uccello(string nome, string habitat, string movimento) : base(nome, "Uccello", habitat, 2, movimento)
         {}
     }
 }

@@ -47,6 +47,9 @@
     <Compile Include="Animale_Marino.cs" />
     <Compile Include="Animale_Terrestre.cs" />
     <Compile Include="Bipede.cs" />
+    <Compile Include="Cavallo.cs" />
+    <Compile Include="Corvo.cs" />
+    <Compile Include="Pinguino.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Quadrupede.cs" />

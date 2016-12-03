@@ -8,7 +8,7 @@ namespace Tassonomia
 {
     abstract class Bipede : Animale_Terrestre
     {
-        public Bipede(string nome, string tipo, string habitat, int zampe, string movimento) : base(nome, tipo, habitat, zampe, movimento)
+        public Bipede(string nome, string tipo, string habitat, string movimento) : base(nome, tipo, habitat, 2, movimento)
         {}
     }
 }

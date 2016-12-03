@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    class Uomo : Bipede
+    class Pinguino
     {
-        public Uomo () : base("Uomo", "Bipede", "Terraferma", 2, " /_ \_ ")
-        {}
     }
 }
