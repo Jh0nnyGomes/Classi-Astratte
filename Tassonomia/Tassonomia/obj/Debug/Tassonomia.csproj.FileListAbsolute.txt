@@ -1,1 +1,2 @@
 C:\Users\aula10\Desktop\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+C:\Users\cad\Desktop\Classi-Astratte-master\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config

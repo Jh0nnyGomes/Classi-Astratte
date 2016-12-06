@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    class Pinguino : Uccello
+    class Pesce : Animale_Acquatico
     {
-        public Pinguino() : base("Pinguino", "Artico", "..__..__..")
+        public Pesce(string nome): base(nome, "Pesce", "Acqua", 0, "splash splash")
         {}
     }
 }

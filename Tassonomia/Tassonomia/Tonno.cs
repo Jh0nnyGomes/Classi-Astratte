@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    class Pinguino : Uccello
+    class Tonno : Pesce
     {
-        public Pinguino() : base("Pinguino", "Artico", "..__..__..")
-        {}
+        public Tonno() : base("Tonno")
+        {}                                                                        
     }
 }

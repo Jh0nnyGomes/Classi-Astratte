@@ -8,7 +8,7 @@ namespace Tassonomia
 {
     class Uccello : Bipede
     {
-        public Uccello(string nome, string habitat, string movimento) : base(nome, "Uccello", habitat, 2, movimento)
+        public Uccello(string nome, string habitat, string movimento) : base(nome, "Uccello", habitat, movimento)
         {}
     }
 }

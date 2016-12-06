@@ -8,7 +8,7 @@ namespace Tassonomia
 {
     class Uomo : Bipede
     {
-        public Uomo () : base("Uomo", "Bipede", "Terraferma", 2, " /_ \_ ")
+        public Uomo () : base("Uomo", "Bipede" "Terraferma", "Cammino")
         {}
     }
 }
