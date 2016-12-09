@@ -14,9 +14,6 @@ namespace Tassonomia
         int numeroZampe;
         string siMuove;
 
-
-        public abstract void SiMuove();
-
         public Animale(string nome, string tipo, string luogo, int zampe, string movimento)
         {
             nomeAnimale = nome;

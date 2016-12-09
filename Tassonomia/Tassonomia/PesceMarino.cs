@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    class Uomo : Bipede
+    abstract class PesceMarino : Animale_Marino
     {
-        public Uomo () : base("Uomo", "Bipede", "Terraferma", "Cammino")
+        public PesceMarino(string nome) : base(nome, "Pesce", "splash splash")
         {}
     }
 }

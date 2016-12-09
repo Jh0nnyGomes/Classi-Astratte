@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tassonomia
 {
-    class Uomo : Bipede
+    class SalmoneFluviale :  PesceFluviale
     {
-        public Uomo () : base("Uomo", "Bipede", "Terraferma", "Cammino")
+        public SalmoneFluviale() : base("Salmone di Fiume")
         {}
     }
 }

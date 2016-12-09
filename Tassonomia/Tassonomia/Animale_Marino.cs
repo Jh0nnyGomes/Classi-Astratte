@@ -8,7 +8,7 @@ namespace Tassonomia
 {
     abstract class Animale_Marino: Animale_Acquatico
     {
-        public Animale_Marino(string nome, string tipo, string habitat, int zampe, string movimento) : base(nome, tipo, habitat, zampe, movimento)
+        public Animale_Marino(string nome, string tipo, string movimento) : base(nome, tipo, "Mare", 0, movimento)
         {}
     }
 }

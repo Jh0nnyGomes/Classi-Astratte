@@ -1,2 +1,7 @@
 C:\Users\aula10\Desktop\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
 C:\Users\cad\Desktop\Classi-Astratte-master\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+C:\Users\aula10\Desktop\Tassonomia\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+C:\Users\aula10\Desktop\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe
+C:\Users\aula10\Desktop\Tassonomia\Tassonomia\bin\Debug\Tassonomia.pdb
+C:\Users\aula10\Desktop\Tassonomia\Tassonomia\obj\Debug\Tassonomia.exe
+C:\Users\aula10\Desktop\Tassonomia\Tassonomia\obj\Debug\Tassonomia.pdb
